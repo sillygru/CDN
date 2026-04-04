@@ -17,10 +17,10 @@ All prestiges are linked to ScIds:
 # Standards
 
 ### brawlers
-Unmodified prestige icons combined with brawler icons (up to Prestige 10).
+Prestige icons combined with brawler icons (up to Prestige 10).
 
 ### numeral
-Unmodified prestige icons with numbers (up to Prestige 10).
+Prestige icons with numbers (up to Prestige 10).
 
 ### regular
 Unmodified prestige icons (up to Prestige 3).
