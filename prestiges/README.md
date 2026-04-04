@@ -1,4 +1,4 @@
-All prestiges are linked to ScIds: 
+All prestiges are linked to Sc Ids: 
 - 39000000 - Wood
 - 39000001 - Bronze
 - 39000002 - Silver
