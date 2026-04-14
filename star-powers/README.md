@@ -2,5 +2,8 @@ Star Powers for brawlers linked by their appropriate IDs you can find in [cards]
 
 # Standards
 
+## regular
+These icons contain the Gadgets internal icon with the border
+
 ## borderless
-These icons contain the Star Powers internal icon without the border and aren't in a standardized size
+These icons contain the Star Powers internal icon without the border
