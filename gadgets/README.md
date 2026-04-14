@@ -1,9 +1,12 @@
-Gadgets for brawlers linked by their appropriate IDs you can find in [cards](https://api.brawlify.com/game/csv_logic/cards) and other endpoints from [the official API](https://developer.brawlstars.com/) or [BrawlAPI](https://brawlapi.com/)
+Gadget icons for brawlers, linked by their IDs from [cards](https://api.brawlify.com/game/csv_logic/cards), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 
 ## regular
-These icons contain the Gadgets internal icon with the border
+Gadget icons with the in-game green border. Typically around 245x256. All assets must be compressed.
 
 ## borderless
-These icons contain the Gadgets internal icon without the border
+> [!WARNING]
+> This standard is deprecated and may be removed in the future. Use `regular` instead.
+
+Gadget icons without the border, cropped to just the icon content. Dimensions vary by shape, up to 160px. All assets must be compressed.

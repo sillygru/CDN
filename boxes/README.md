@@ -1,9 +1,9 @@
-Seasonal Reward Boxes are linked by numbers counting up. You can find them in [trophy_season_reward_levels](https://api.brawlify.com/game/csv_logic/trophy_season_reward_levels) 
+Seasonal reward box icons, linked by numbers counting up. References in [trophy_season_reward_levels](https://api.brawlify.com/game/csv_logic/trophy_season_reward_levels).
 
 # Standards
 
 ## emoji
-Pin-like icons of boxes, linked by numbers counting up
+Pin-style simplified icons of boxes. Dimensions vary around 150-210px. All assets must be compressed.
 
 ## regular
-Realistic icons of boxes, linked by numbers counting up
+Detailed realistic-looking box icons. Dimensions vary around 210-310px. All assets must be compressed.

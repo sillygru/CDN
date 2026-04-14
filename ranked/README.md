@@ -1,9 +1,9 @@
-Ranked icons are linked by their appropriate IDs you can find in [ranked_ranks](https://api.brawlify.com/game/csv_logic/ranked_ranks) or their respective names, based on the standard you choose. This will likely be available in some endpoints from [the official API](https://developer.brawlstars.com/) or [BrawlAPI](https://brawlapi.com/)
+Ranked league icons linked by their IDs or names from [ranked_ranks](https://api.brawlify.com/game/csv_logic/ranked_ranks), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 
 ## regular
-Linked by respective names for each icon, only includes the base, not the number / tier.
+Base rank icons linked by their league name (e.g. `Gold.png`, `Diamond.png`), without tier numbers. Dimensions vary around 210-335px. All assets must be compressed.
 
 ## tiered
-Linked by IDs found in [ranked_ranks](https://api.brawlify.com/game/csv_logic/ranked_ranks) and other API endpoints, with appropriate tier number at the bottom.
+Rank icons with the tier number shown at the bottom, linked by ID. Dimensions vary around 210-335px. All assets must be compressed.

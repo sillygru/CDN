@@ -1,26 +1,18 @@
-All prestiges are linked to ids: 
+Prestige badge icons representing mastery tiers for brawlers. File names correspond to prestige tier IDs:
+
 - 0 - Wood
 - 1 - Bronze
 - 2 - Silver
 - 3 - Gold
-- 4 - Prestige 1
-- 5 - Prestige 2
-- 6 - Prestige 3
-- 7 - Prestige 4
-- 8 - Prestige 5
-- 9 - Prestige 6
-- 10 - Prestige 7
-- 11 - Prestige 8
-- 12 - Prestige 9
-- 13 - Prestige 10
+- 4 through 13 - Prestige 1 through 10
 
 # Standards
 
-### brawlers
-Prestige icons combined with brawler icons (up to Prestige 10).
+## brawlers
+Prestige badges combined with individual brawler icons, organized into subfolders by brawler ID. Each brawler folder contains badges for all tiers up to Prestige 10. Dimensions range from approximately 377px to 541px depending on the tier. All assets must be compressed.
 
-### tiered
-Prestige icons with numbers (up to Prestige 10).
+## tiered
+Prestige badge icons with tier numbers overlaid, up to Prestige 10. Dimensions range from approximately 377px to 541px. All assets must be compressed.
 
-### regular
-Unmodified prestige icons (up to Prestige 3).
+## regular
+Base prestige badge icons without tier numbers, up to Gold. Dimensions range from approximately 377px to 541px. All assets must be compressed.

@@ -1,6 +1,6 @@
-Records icons linked with numbers from 0 going up. You can find references in [records](https://api.brawlify.com/game/csv_logic/records) and other endpoints from [the official API](https://developer.brawlstars.com/) or [BrawlAPI](https://brawlapi.com/)
+Player record icons linked by numbers counting up from 0. References in [records](https://api.brawlify.com/game/csv_logic/records), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 
 ## regular
-Regular record icons that are unnumbered.
+In-game record icons. Dimensions are approximately 140-180px wide by 161px tall. All assets must be compressed.

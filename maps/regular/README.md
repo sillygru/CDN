@@ -1,8 +1,3 @@
-Visualized maps are generated using a customized *currently* private [bloodwiing/BrawlMapGen](https://github.com/bloodwiing/BrawlMapGen) update.
+Map images rendered as close as possible to their in-game appearance with matching environments. Three size formats exist depending on the game mode layout: 690x1050 for vertical maps, 930x930 for square maps, and 1860x1860 for large square maps.
 
-All maps are linked by their appropriate IDs you can find in [locations](https://api.brawlify.com/game/csv_logic/locations) and other endpoints from [the official API](https://developer.brawlstars.com/) or [BrawlAPI](https://brawlapi.com/)
-
-# Standards
-
-## regular
-Maps generated here are as close as possible to in-game map images with the same or similar environments, optimized to be just big enough for comfortable zooming but not big enough where they waste too much disk space / bandwidth.
+All maps are linked by their IDs from [locations](https://api.brawlify.com/game/csv_logic/locations), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/). All assets must be compressed.

@@ -1,23 +1,18 @@
-Profile icons for brawlers linked by their appropriate IDs you can find in [characters](https://api.brawlify.com/game/csv_logic/characters) and other endpoints from [the official API](https://developer.brawlstars.com/) or [BrawlAPI](https://brawlapi.com/)
+Brawler assets in multiple formats, linked by brawler IDs from [characters](https://api.brawlify.com/game/csv_logic/characters), [the official API](https://developer.brawlstars.com/), or [BrawlAPI](https://brawlapi.com/).
 
 # Standards
 
 ## borderless
-
-These icons have the black border cut to only display the brawler, without the standard border in icons. 170x170 in size or bigger, always a fixed size square
+Square brawler head icons with the black border removed, showing only the character. Fixed at 170x170. All assets must be compressed.
 
 ## borders
-
-Regular icon that includes the border that's standard in profile icons. 200x200 in size or bigger, always a fixed size square
+Square brawler head icons with the standard in-game profile border included. Fixed at 200x200. All assets must be compressed.
 
 ## emoji
-
-Default pin for the corresponding brawler linked by their ID. Multiple sizes, smaller icons
+The default pin expression for each brawler. Cropped to content so dimensions vary, up to 400px. All assets must be compressed.
 
 ## model
-
-Model showcase of a brawler for the default look from the front
+Full-body front-facing model showcase of each brawler in their default skin. Dimensions vary by character proportions, up to ~1100px on the longest side. All assets must be compressed.
 
 ## portraits
-
-Large format portraits of brawlers linked by their ID. Multiple sizes, larger images
+Wider landscape-style portraits of brawlers. Dimensions vary, up to 800px on the longest side. All assets must be compressed.
