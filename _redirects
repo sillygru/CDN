@@ -1,9 +1,19 @@
 / https://github.com/Brawlify/CDN
 
-# Temporary Redirects for ranks replaced by tiers
-# Please replace your paths linking to /ranks/ by /tiers/ as this is the correct way!
-/ranks/regular/*.png /tiers/regular/:splat.png 301
+# Redirects from /tiers/regular/ to /prestiges/regular/
+# The tiers folder has been replaced by the prestiges folder
+/tiers/regular/wood.png /prestiges/regular/0.png 301
+/tiers/regular/bronze.png /prestiges/regular/1.png 301
+/tiers/regular/silver.png /prestiges/regular/2.png 301
+/tiers/regular/gold.png /prestiges/regular/3.png 301
+/tiers/regular/prestige-1.png /prestiges/regular/4.png 301
+/tiers/regular/prestige-2.png /prestiges/regular/5.png 301
+/tiers/regular/prestige-3.png /prestiges/regular/6.png 301
 
+# Redirects from /tiers/tiered/ to /prestiges/brawlers/
+/tiers/tiered/prestige-1/*.png /prestiges/brawlers/:splat/4.png 301
+/tiers/tiered/prestige-2/*.png /prestiges/brawlers/:splat/5.png 301
+/tiers/tiered/prestige-3/*.png /prestiges/brawlers/:splat/6.png 301
 
 # Missing profile icons
 # Unfortunately some icons are missing, so they are redirected to the Unknown.png icon
