@@ -2,6 +2,8 @@ Gadgets for brawlers linked by their appropriate IDs you can find in [cards](htt
 
 # Standards
 
-## borderless
+## regular
+These icons contain the Gadgets internal icon with the border
 
-These icons contain the Gadgets internal icon without the border and aren't in a standardized size
+## borderless
+These icons contain the Gadgets internal icon without the border
