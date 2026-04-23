@@ -48,3 +48,24 @@
 /profile-icons/regular/28001219.png /profile-icons/regular/Unknown.png 302
 /profile-icons/regular/28001220.png /profile-icons/regular/Unknown.png 302
 /profile-icons/regular/28001221.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001224.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001225.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001226.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001227.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001253.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001254.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001257.png /profile-icons/regular/Unknown.png 302
+/profile-icons/regular/28001285.png /profile-icons/regular/Unknown.png 302
+
+# Missing game modes - redirect to default (GemGrab/48000000)
+/game-modes/regular/48000001.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000004.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000012.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000013.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000068.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000069.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000070.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000071.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000075.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000077.png /game-modes/regular/48000000.png 302
+/game-modes/regular/48000079.png /game-modes/regular/48000000.png 302
